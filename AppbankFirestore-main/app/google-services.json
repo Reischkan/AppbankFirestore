@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13565286055",
+    "firebase_url": "https://appbank-95877.firebaseio.com",
+    "project_id": "appbank-95877",
+    "storage_bucket": "appbank-95877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13565286055:android:2a1e4d8e2cd2155f23ed82",
+        "android_client_info": {
+          "package_name": "com.example.appbankfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13565286055-9shm8q5bfoi71peb40b9el5jc0os1bg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7eF4xs4TMvYpEgFrjphdTou8XWHSlVRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13565286055-9shm8q5bfoi71peb40b9el5jc0os1bg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
